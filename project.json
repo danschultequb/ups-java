@@ -1,0 +1,14 @@
+{
+  "project": "ups-java",
+  "publisher": "qub",
+  "version": "1",
+  "java": {
+    "dependencies": [
+      {
+        "publisher": "qub",
+        "project": "http-java",
+        "version": "19"
+      }
+    ]
+  }
+}
